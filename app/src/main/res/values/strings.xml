@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ECE InfoKiosk</string>
+    <string name="action_settings">Settings</string>
+    <string name="faculty_prompt">Faculty</string>
+    <string name="map_prompt">Map</string>
+    <string name="clubs_prompt">Orgs</string>
+    <string name="events_prompt">Events</string>
+    <string name="games_prompt">Games</string>
+    <string name="info_prompt">Info</string>
+    <string name="height_prompt">Tap Here to Lower Controls</string>
+    <string name="greeting_prompt">Welcome to the ECE Kiosk!</string>
+</resources>

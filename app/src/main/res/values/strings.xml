@@ -9,4 +9,11 @@
     <string name="info_prompt">Info</string>
     <string name="height_prompt">Tap Here to Lower Controls</string>
     <string name="greeting_prompt">Welcome to the ECE Kiosk!</string>
+    <string name="departments">Select a Department</string>
+    <string name="chemical">Chemical &amp; Biomedical</string>
+    <string name="electrical">Electrical &amp; Computer</string>
+    <string name="mechanical">Mechanical</string>
+    <string name="industrial">Industrial &amp; Manufacturing</string>
+    <string name="civil">Civil &amp; Environmental</string>
+    <string name="back_prompt">Back</string>
 </resources>

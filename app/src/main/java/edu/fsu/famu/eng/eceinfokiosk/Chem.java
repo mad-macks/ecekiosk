@@ -1,5 +1,6 @@
 package edu.fsu.famu.eng.eceinfokiosk;
 
+import android.content.Intent;
 import android.os.Bundle;
 import android.support.design.widget.FloatingActionButton;
 import android.support.design.widget.Snackbar;
@@ -25,5 +26,11 @@ public class Chem extends AppCompatActivity {
             }
         });
         getSupportActionBar().setDisplayHomeAsUpEnabled(true);
+    }
+
+    public void toAlfina(View view) {
+        //go to Alfina activity
+        Intent intent = new Intent(this, Alfina.class);
+        startActivity(intent);
     }
 }

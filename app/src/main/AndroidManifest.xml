@@ -29,6 +29,7 @@
                 android:name="android.support.PARENT_ACTIVITY"
                 android:value="edu.fsu.famu.eng.eceinfokiosk.FacultyMenu" />
         </activity>
+        <activity android:name=".Alfina"></activity>
     </application>
 
 </manifest>

@@ -33,4 +33,10 @@ public class Chem extends AppCompatActivity {
         Intent intent = new Intent(this, Alfina.class);
         startActivity(intent);
     }
+
+    public void toChella(View view) {
+        //go to Alfina activity
+        Intent intent = new Intent(this, Chella.class);
+        startActivity(intent);
+    }
 }

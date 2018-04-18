@@ -1,0 +1,272 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Elec">
+-->
+<android.support.v4.widget.NestedScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:fillViewport="true">
+
+
+
+    <TableLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <Button
+                android:id="@+id/button14"
+                android:layout_width="272dp"
+                android:layout_height="wrap_content"
+                android:text="@string/andrei" />
+
+            <Button
+                android:id="@+id/button15"
+                android:layout_width="273dp"
+                android:layout_height="wrap_content"
+                android:text="@string/arghandeh" />
+        </TableRow>
+
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <Button
+                android:id="@+id/button16"
+                android:layout_width="272dp"
+                android:layout_height="wrap_content"
+                android:text="@string/arora" />
+
+            <Button
+                android:id="@+id/button17"
+                android:layout_width="273dp"
+                android:layout_height="wrap_content"
+                android:text="@string/barnes" />
+        </TableRow>
+
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <Button
+                android:id="@+id/button18"
+                android:layout_width="272dp"
+                android:layout_height="wrap_content"
+                android:text="@string/bernadin" />
+
+            <Button
+                android:id="@+id/button19"
+                android:layout_width="273dp"
+                android:layout_height="wrap_content"
+                android:text="@string/brooks" />
+        </TableRow>
+
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <Button
+                android:id="@+id/button20"
+                android:layout_width="272dp"
+                android:layout_height="wrap_content"
+                android:text="@string/harvey" />
+
+            <Button
+                android:id="@+id/button21"
+                android:layout_width="273dp"
+                android:layout_height="wrap_content"
+                android:text="@string/ldebrunner" />
+        </TableRow>
+
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <Button
+                android:id="@+id/button22"
+                android:layout_width="272dp"
+                android:layout_height="wrap_content"
+                android:text="@string/vdebrunner" />
+
+            <Button
+                android:id="@+id/button23"
+                android:layout_width="273dp"
+                android:layout_height="wrap_content"
+                android:text="@string/edrington" />
+        </TableRow>
+
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <Button
+                android:id="@+id/button24"
+                android:layout_width="272dp"
+                android:layout_height="wrap_content"
+                android:text="@string/faruque" />
+
+            <Button
+                android:id="@+id/button25"
+                android:layout_width="273dp"
+                android:layout_height="wrap_content"
+                android:text="@string/foo" />
+        </TableRow>
+
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <Button
+                android:id="@+id/button26"
+                android:layout_width="272dp"
+                android:layout_height="wrap_content"
+                android:text="@string/hadi" />
+
+            <Button
+                android:id="@+id/button27"
+                android:layout_width="273dp"
+                android:layout_height="wrap_content"
+                android:text="@string/islam" />
+        </TableRow>
+
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <Button
+                android:id="@+id/button28"
+                android:layout_width="272dp"
+                android:layout_height="wrap_content"
+                android:text="@string/hooker" />
+
+            <Button
+                android:id="@+id/button29"
+                android:layout_width="273dp"
+                android:layout_height="wrap_content"
+                android:text="@string/kwan" />
+        </TableRow>
+
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <Button
+                android:id="@+id/button30"
+                android:layout_width="272dp"
+                android:layout_height="wrap_content"
+                android:text="@string/li" />
+
+            <Button
+                android:id="@+id/button31"
+                android:layout_width="273dp"
+                android:layout_height="wrap_content"
+                android:text="@string/lipo" />
+        </TableRow>
+
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <Button
+                android:id="@+id/button32"
+                android:layout_width="272dp"
+                android:layout_height="wrap_content"
+                android:text="@string/mcginnis" />
+
+            <Button
+                android:id="@+id/button33"
+                android:layout_width="273dp"
+                android:layout_height="wrap_content"
+                android:text="@string/meyer" />
+        </TableRow>
+
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" >
+
+            <Button
+                android:id="@+id/button34"
+                android:layout_width="272dp"
+                android:layout_height="wrap_content"
+                android:text="@string/moss" />
+
+            <Button
+                android:id="@+id/button35"
+                android:layout_width="273dp"
+                android:layout_height="wrap_content"
+                android:text="@string/pamidi" />
+        </TableRow>
+
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" >
+
+            <Button
+                android:id="@+id/button36"
+                android:layout_width="272dp"
+                android:layout_height="wrap_content"
+                android:text="@string/perry" />
+
+            <Button
+                android:id="@+id/button37"
+                android:layout_width="273dp"
+                android:layout_height="wrap_content"
+                android:text="@string/roberts" />
+        </TableRow>
+
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" >
+
+            <Button
+                android:id="@+id/button38"
+                android:layout_width="272dp"
+                android:layout_height="wrap_content"
+                android:text="@string/steurer" />
+
+            <Button
+                android:id="@+id/button39"
+                android:layout_width="273dp"
+                android:layout_height="wrap_content"
+                android:text="@string/tung" />
+        </TableRow>
+
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" >
+
+            <Button
+                android:id="@+id/button40"
+                android:layout_width="272dp"
+                android:layout_height="wrap_content"
+                android:text="@string/weatherspoon" />
+
+            <Button
+                android:id="@+id/button41"
+                android:layout_width="273dp"
+                android:layout_height="wrap_content"
+                android:text="@string/yu" />
+        </TableRow>
+
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" >
+
+            <Button
+                android:id="@+id/button42"
+                android:layout_width="272dp"
+                android:layout_height="wrap_content"
+                android:text="@string/zheng" />
+
+        </TableRow>
+    </TableLayout>
+</android.support.v4.widget.NestedScrollView>
+<!--</android.support.constraint.ConstraintLayout>-->

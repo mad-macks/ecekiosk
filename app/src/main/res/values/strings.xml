@@ -18,12 +18,46 @@
     <string name="back_prompt">Back</string>
     <string name="title_activity_chem">Chem</string>
 
-    <string name="alamo">Rufina Alamo</string>
-    <string name="chella">Ravidran Chella</string>
-    <string name="chung">Hoyong Chung</string>
-    <string name="finney">Wright Finney</string>
-    <string name="grant">Samuel Grant</string>
-    <string name="guan">Jingjiao Guan</string>
+    //Chem faculty
+    <string name="alamo">Rufina Alamo, Ph.D.</string>
+    <string name="chella">Ravidran Chella, Ph.D.</string>
+    <string name="chung">Hoyong Chung, Ph.D.</string>
+    <string name="finney">Wright Finney, Ph.D.</string>
+    <string name="grant">Samuel Grant, Ph.D.</string>
+    <string name="guan">Jingjiao Guan, Ph.D.</string>
     //continue
+
+    //Elec faculty
+    <string name="andrei">Petru Andrei, Ph.D.</string>
+    <string name="arghandeh">Reza Arghandeh, Ph.D.</string>
+    <string name="arora">Rajendra K. Arora, Ph.D.</string>
+    <string name="barnes">Jerome Barnes</string>
+    <string name="bernadin">Shonda Bernadin, Ph.D.</string>
+    <string name="brooks">Geoffrey Brooks, Ph.D.</string>
+    <string name="harvey">Bruce A. Harvey, Ph.D.</string>
+    <string name="ldebrunner">Linda S. DeBrunner, Ph.D.</string>
+    <string name="vdebrunner">Victor DeBrunner, Ph.D.</string>
+    <string name="edrington">Chris S. Edrington, Ph.D.</string>
+    <string name="faruque">Omar Faruque, Ph.D.</string>
+    <string name="foo">Simon Y. Foo, Ph.D.</string>
+    <string name="hadi">Walid A. Hadi, Ph.D.</string>
+    <string name="islam">Md. Shafiul Islam, Ph.D.</string>
+    <string name="hooker">Jerris Hooker, Ph.D.</string>
+    <string name="kwan">Bing W. Kwan, Ph.D.</string>
+    <string name="li">Hui Li, Ph.D.</string>
+    <string name="lipo">Thomas Lipo, Ph.D.</string>
+    <string name="mcginnis">Roger D. McGinnis, Ph.D.</string>
+    <string name="meyer">Uwe H. Meyer-Baese, Ph.D.</string>
+    <string name="moss">Pedro Moss, Ph.D.</string>
+    <string name="pamidi">Sastry V. Pamidi, Ph.D., MBA</string>
+    <string name="perry">Reginald J. Perry, Ph.D.</string>
+    <string name="roberts">Rodney Roberts, Ph.D.</string>
+    <string name="steurer">Michael Steurer, Ph.D.</string>
+    <string name="tung">Leonard J. Tung, Ph.D.</string>
+    <string name="weatherspoon">Mark H. Weatherspoon, Ph.D.</string>
+    <string name="yu">Ming Yu, Ph.D.</string>
+    <string name="zheng">Jim P. Zheng, Ph.D.</string>
+    //end Elec faculty
+
 
 </resources>

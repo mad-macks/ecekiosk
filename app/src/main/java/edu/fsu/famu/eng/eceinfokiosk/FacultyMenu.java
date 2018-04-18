@@ -24,4 +24,10 @@ public class FacultyMenu extends AppCompatActivity {
         Intent intent = new Intent(this, Chem.class);
         startActivity(intent);
     }
+
+    public void toElec(View view) {
+        //go to Electrical faculty directory
+        Intent intent = new Intent(this, Elec.class);
+        startActivity(intent);
+    }
 }

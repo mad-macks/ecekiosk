@@ -60,6 +60,7 @@
         android:layout_marginBottom="140dp"
         android:layout_marginStart="16dp"
         android:layout_marginTop="19dp"
+        android:onClick="toElec"
         android:text="@string/electrical"
         android:textAlignment="center"
         android:textSize="24sp"

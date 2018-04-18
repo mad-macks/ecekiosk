@@ -30,7 +30,8 @@
                 android:value="edu.fsu.famu.eng.eceinfokiosk.FacultyMenu" />
         </activity>
         <activity android:name=".Alfina" />
-        <activity android:name=".Chella"></activity>
+        <activity android:name=".Chella" />
+        <activity android:name=".Elec"></activity>
     </application>
 
 </manifest>

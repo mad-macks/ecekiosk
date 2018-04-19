@@ -60,4 +60,42 @@
     //end Elec faculty
 
 
+    //biographies
+    <string name="andrei_bio">
+        Office: AME Building 213\n
+        (850) 410-6589\n
+        (850) 645-0137\n
+        pandrei@eng.famu.fsu.edu\n
+        Education\n
+        \tPh.D., ECE, University of Maryland, College Park, 2004\n
+        \tM.S., Physics, Al. I. Cuza University, Romania, 1999\n
+        \tB.S., Physics, Al. I. Cuza University, Romania, 1997\n
+        Research Interests\n
+        \tMagnetics\n
+        \tElectrochemical systems\n
+        \tNano and power electronic devices\n
+        \tNoise and hysteresis\n\n
+        Petru Andrei received his Ph.D. in Electrical and Computer Engineering from the University of Maryland, College Park in 2004 and his M.S. and B.S. in Physics from the Alexandru I. Cuza University in Romania. He joined the FAMU-FSU College of Engineering in Fall 2004.\n
+        Dr. Andrei is working on the modeling and simulation of nanoscale and power semiconductor devices, energy storage devices, magnetic materials, and on computational electromagnetics. He is particularly interested in the modeling of metal-air and Li-ion batteries, supercapacitors, fuel cells, analysis of fluctuations, variability, and noise in electronic devices, quantum induced effects in nanoscale devices, redesign and optimization techniques, inverse problems, modeling and analysis of the magnetic properties of nanostructure systems, fast multipole methods, hysteresis, and thermal relaxation phenomena in nanostructures.\n
+        Dr. Andrei is a member of the Institute of Electrical and Electronics Engineers (IEEE) and American Physical Society (APS) and is currently serving as referee for numerous journals.
+    </string>
+
+    <string name="harvey_bio">
+        Office: A344
+        (850) 410-6451\n
+        bharvey@fsu.edu\n
+        Education\n
+        \tPh.D., Electrical Engineering, Georgia Institute of Technology, 1991\n
+        \tM.S., Electrical Engineering, University of Alabama in Huntsville, 1987\n
+        \tB.E.E., Auburn University, 1984\n
+        Research Interests\n
+        \tWireless Communication and Networks\n
+        \tSpread-spectrum communications\n
+        \tReal-time DSP in communication systems\n
+        \tRemote data collection and lightning surge suppression/protection\n\n
+        Dr. Bruce Harvey (S\'81–M\'84–S\'88–M\'91–SM\'98) was born in Stoughton, Massachusetts, USA on December 20, 1961. He received the B.E.E. (Co-op, Highest Honor) from Auburn University in 1984. He received the M.S.E.E. from the University of Alabama in Huntsville in 1987 and the Ph.D. in Electrical Engineering from Georgia Institute of Technology in 1991 specializing in communications theory and error control coding.\n
+        In September 1997 he joined the Department of Electrical and Computer Engineering at the FAMU-FSU Joint College of Engineering in Tallahassee, Florida, and currently holds the rank of Associate Professor. Dr. Harvey was the Associate Chair of the Department of Electrical and Computer Engineering from 2004-2010, and is once again serving in this capacity (since 2013). He was a Research Engineer I at the Georgia Tech Research Institute (GTRI) from 1984-1986 and a Lead Engineer at Phase IV Systems, Inc. from 1986-1988. From 1991-1997 he was a Research Engineer II and then Senior Research Engineer in the Communications Division of GTRI.\n
+        His current fields of interest include wireless communication, error control coding, telecommunication systems, and spread-spectrum communications.\n
+    </string>
+
 </resources>

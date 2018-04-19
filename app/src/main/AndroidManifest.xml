@@ -31,7 +31,9 @@
         </activity>
         <activity android:name=".Alfina" />
         <activity android:name=".Chella" />
-        <activity android:name=".Elec"></activity>
+        <activity android:name=".Elec" />
+        <activity android:name=".Andrei" />
+        <activity android:name=".Harvey"></activity>
     </application>
 
 </manifest>

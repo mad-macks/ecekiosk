@@ -67,11 +67,37 @@ public class MainActivity extends AppCompatActivity {
     public void viewFaculty(View view) {
         //call new activity
         Intent intent = new Intent(this, FacultyMenu.class);
-        //EditText editText = (EditText) findViewById(R.id.editText);
-        //String message = editText.getText().toString();
-        //intent.putExtra(EXTRA_MESSAGE, message);
         startActivity(intent);
     }
 
+    public void viewMaps(View view) {
+        //call new activity
+        Intent intent = new Intent(this, Map.class);
+        startActivity(intent);
+    }
 
+    public void viewOrgs(View view) {
+        //call new activity
+        Intent intent = new Intent(this, Orgs.class);
+        startActivity(intent);
+    }
+
+    public void viewEvents(View view) {
+        //call new activity
+        Intent intent = new Intent(this, Events.class);
+        startActivity(intent);
+    }
+/*
+    public void viewGames(View view) {
+        //call new activity
+        Intent intent = new Intent(this, Games.class);
+        startActivity(intent);
+    }
+
+    public void viewInfo(View view) {
+        //call new activity
+        Intent intent = new Intent(this, Info.class);
+        startActivity(intent);
+    }
+    */
 }

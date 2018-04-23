@@ -84,15 +84,14 @@
                 android:id="@+id/button20"
                 android:layout_width="272dp"
                 android:layout_height="100dp"
-                android:onClick="viewHarvey"
-                android:text="@string/harvey"
+                android:text="@string/ldebrunner"
                 android:textSize="18sp" />
 
             <Button
                 android:id="@+id/button21"
                 android:layout_width="273dp"
                 android:layout_height="100dp"
-                android:text="@string/ldebrunner"
+                android:text="@string/vdebrunner"
                 android:textSize="18sp" />
         </TableRow>
 
@@ -104,14 +103,14 @@
                 android:id="@+id/button22"
                 android:layout_width="272dp"
                 android:layout_height="100dp"
-                android:text="@string/vdebrunner"
+                android:text="@string/edrington"
                 android:textSize="18sp" />
 
             <Button
                 android:id="@+id/button23"
                 android:layout_width="273dp"
                 android:layout_height="100dp"
-                android:text="@string/edrington"
+                android:text="@string/faruque"
                 android:textSize="18sp" />
         </TableRow>
 
@@ -123,14 +122,15 @@
                 android:id="@+id/button24"
                 android:layout_width="272dp"
                 android:layout_height="100dp"
-                android:text="@string/faruque"
+                android:onClick="viewFoo"
+                android:text="@string/foo"
                 android:textSize="18sp" />
 
             <Button
                 android:id="@+id/button25"
                 android:layout_width="273dp"
                 android:layout_height="100dp"
-                android:text="@string/foo"
+                android:text="@string/hadi"
                 android:textSize="18sp" />
         </TableRow>
 
@@ -142,14 +142,16 @@
                 android:id="@+id/button26"
                 android:layout_width="272dp"
                 android:layout_height="100dp"
-                android:text="@string/hadi"
+                android:onClick="viewHarvey"
+                android:text="@string/harvey"
                 android:textSize="18sp" />
 
             <Button
                 android:id="@+id/button27"
                 android:layout_width="273dp"
                 android:layout_height="100dp"
-                android:text="@string/islam"
+                android:onClick="viewHooker"
+                android:text="@string/hooker"
                 android:textSize="18sp" />
         </TableRow>
 
@@ -161,7 +163,7 @@
                 android:id="@+id/button28"
                 android:layout_width="272dp"
                 android:layout_height="100dp"
-                android:text="@string/hooker"
+                android:text="@string/islam"
                 android:textSize="18sp" />
 
             <Button

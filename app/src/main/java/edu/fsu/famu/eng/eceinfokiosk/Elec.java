@@ -20,12 +20,27 @@ public class Elec extends AppCompatActivity {
         startActivity(intent);
     }
 
+    //go to page for foo
+    public void viewFoo(View view) {
+        //call new activity
+        Intent intent = new Intent(this,Foo.class);
+        startActivity(intent);
+    }
+
     //go to page for harvey
     public void viewHarvey(View view) {
         //call new activity
         Intent intent = new Intent(this,Harvey.class);
         startActivity(intent);
     }
+
+    //go to page for hooker
+    public void viewHooker(View view) {
+        //call new activity
+        Intent intent = new Intent(this,hooker.class);
+        startActivity(intent);
+    }
+
 
     //go back to faculty page
     public void viewFaculty(View view) {

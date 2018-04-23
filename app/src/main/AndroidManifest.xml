@@ -2,6 +2,8 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="edu.fsu.famu.eng.eceinfokiosk">
 
+    <uses-permission android:name="android.permission.INTERNET" />
+
     <application
         android:allowBackup="true"
         android:icon="@mipmap/ic_launcher"
@@ -33,7 +35,13 @@
         <activity android:name=".Chella" />
         <activity android:name=".Elec" />
         <activity android:name=".Andrei" />
-        <activity android:name=".Harvey"></activity>
+        <activity android:name=".Harvey" />
+        <activity android:name=".hooker" />
+        <activity android:name=".Foo" />
+        <activity android:name=".Map" />
+        <activity android:name=".MapB" />
+        <activity android:name=".Orgs" />
+        <activity android:name=".Events"></activity>
     </application>
 
 </manifest>

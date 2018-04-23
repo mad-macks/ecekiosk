@@ -4,6 +4,7 @@
     <string name="faculty_prompt">Faculty</string>
     <string name="map_prompt">Map</string>
     <string name="clubs_prompt">Orgs</string>
+    <string name="clubs_full">Organizations</string>
     <string name="events_prompt">Events</string>
     <string name="games_prompt">Games</string>
     <string name="info_prompt">Info</string>
@@ -17,6 +18,8 @@
     <string name="civil">Civil &amp; &#xD;Environmental</string>
     <string name="back_prompt">Back</string>
     <string name="title_activity_chem">Chem</string>
+    <string name="build_A">Building A</string>
+    <string name="build_B">Building B</string>
 
     //Chem faculty
     <string name="alamo">Rufina Alamo, Ph.D.</string>
@@ -81,7 +84,7 @@
     </string>
 
     <string name="harvey_bio">
-        Office: A344
+        Office: A344\n
         (850) 410-6451\n
         bharvey@fsu.edu\n
         Education\n
@@ -98,4 +101,42 @@
         His current fields of interest include wireless communication, error control coding, telecommunication systems, and spread-spectrum communications.\n
     </string>
 
+    <string name="hooker_bio">
+        Office: A342\n
+        (850) 410-6463\n
+        jh09c@my.fsu.edu\n
+        Education\n
+        \tPh.D., Florida A&amp;M University, Tallahassee, 2010\n
+        \tM.S., Florida A&amp;M University, Tallahassee, 2006\n
+        \tB.E.E.,Florida State University, Tallahassee, 2002\n
+        Research Interests\n
+        \tSpiral coil resonators\n
+        \tHTS thin-film resonators\n
+        Current Research Projects\n
+        \tDevelopment of HTS technology for use in NMR probes\n
+        Jerris Hooker received his Ph.D., and M.S. in Electrical and Computer Engineering from Florida A&amp;M University in 2010 and 2006 respectively. His B.S. in Electrical and Computer Engineering was obtained from Florida State University in 2002. Dr. Hooker is currently a postdoctoral researcher at the National High Magnetic Field Laboratory and an adjunct professor of Electrical and Computer Engineering Department, FAMU-FSU college of Engineering. His research interest include modelling of resonant devices, HTS NMR probes, spiral resonators, and numerical methods. Dr. Hooker also serves as a mentor for the SAIL High School Robotics Club, assisting in the design, construction, and optimization of robots for the FIRST Robotics competition as well as other projects.\n
+    </string>
+
+
+    <string name="foo_bio">
+        Office: A341\n
+        (850) 410-6474\n
+        (850) 410-6622\n
+        sfoo@fsu.edu\n
+        simon.foo@famu.edu\n
+
+        Education/n
+        \tPh.D., Electrical and Computer Engineering, University of South Carolina, 1988\n
+        \tM.S., Electrical and Computer Engineering, University of South Carolina, 1985\n
+        \tB.S., Electrical Engineering, University of South Carolina, 1983\n
+        Research Interests\n
+        \tComputational Intelligence\n
+        \tReconfigurable Antennas\n
+        \tModeling of Electro-Mechanical Actuator (EMA)\n
+        \tElectromagnetic interference (EMI) filtering\n
+        \tRegenerative electric power\n
+        \tMore Electric Aircraft (MEA)\n
+        \tMulti-junction Photovoltaics\n
+        Dr. Foo is a tenured Professor at the Department of Electrical and Computer Engineering at Florida A&amp;M University and Florida State University. His research contributions have been in the areas of computational intelligence, random number generators, field programmable gate array (FPGA) applications, and photovoltaics. Dr. Foo has authored or co-authored over 100 refereed technical papers and contributed to two book chapters. He has also graduated more than 30 MS and PhD students. He is the Principal Investigator of at least 20 funded research projects with total funding of over 3 million dollars. His primary research sponsors include the National Security Agency, National Science Foundation, U. S. Air Force, Boeing Aircraft Company, and the Florida Department of Transportation. He also serves as a technical advisor to Airbus in the area of fire detection in aircraft cargo bays. Dr. Foo is a member of Eta Kappa Nu Electrical Engineering Honor Society (since 1982).
+    </string>
 </resources>

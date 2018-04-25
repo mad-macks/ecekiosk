@@ -7,6 +7,7 @@ import android.view.View;
 import android.webkit.WebView;
 import android.webkit.WebViewClient;
 
+
 public class Events extends AppCompatActivity {
 
     private WebView webview;
@@ -19,7 +20,7 @@ public class Events extends AppCompatActivity {
         webview =findViewById(R.id.webView2);
 
         webview.setWebViewClient(new WebViewClient());
-        webview.getSettings().setJavaScriptEnabled(true);
+        //webview.getSettings().setJavaScriptEnabled(true);
         webview.getSettings().setDomStorageEnabled(true);
         webview.setOverScrollMode(WebView.OVER_SCROLL_NEVER);
         webview.loadUrl("https://www.eng.famu.fsu.edu");

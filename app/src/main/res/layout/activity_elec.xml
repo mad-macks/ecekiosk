@@ -13,7 +13,6 @@
     android:fillViewport="true">
 
 
-
     <TableLayout
         android:layout_width="match_parent"
         android:layout_height="match_parent">
@@ -24,7 +23,7 @@
 
             <Button
                 android:id="@+id/button14"
-                android:layout_width="272dp"
+                android:layout_width="360dp"
                 android:layout_height="100dp"
                 android:onClick="viewAndrei"
                 android:text="@string/andrei"
@@ -32,7 +31,7 @@
 
             <Button
                 android:id="@+id/button15"
-                android:layout_width="273dp"
+                android:layout_width="360dp"
                 android:layout_height="100dp"
                 android:text="@string/arghandeh"
                 android:textSize="18sp" />
@@ -44,14 +43,14 @@
 
             <Button
                 android:id="@+id/button16"
-                android:layout_width="272dp"
+                android:layout_width="match_parent"
                 android:layout_height="100dp"
                 android:text="@string/arora"
                 android:textSize="18sp" />
 
             <Button
                 android:id="@+id/button17"
-                android:layout_width="273dp"
+                android:layout_width="match_parent"
                 android:layout_height="100dp"
                 android:text="@string/barnes"
                 android:textSize="18sp" />
@@ -63,14 +62,14 @@
 
             <Button
                 android:id="@+id/button18"
-                android:layout_width="272dp"
+                android:layout_width="match_parent"
                 android:layout_height="100dp"
                 android:text="@string/bernadin"
                 android:textSize="18sp" />
 
             <Button
                 android:id="@+id/button19"
-                android:layout_width="273dp"
+                android:layout_width="match_parent"
                 android:layout_height="100dp"
                 android:text="@string/brooks"
                 android:textSize="18sp" />
@@ -82,14 +81,14 @@
 
             <Button
                 android:id="@+id/button20"
-                android:layout_width="272dp"
+                android:layout_width="match_parent"
                 android:layout_height="100dp"
                 android:text="@string/ldebrunner"
                 android:textSize="18sp" />
 
             <Button
                 android:id="@+id/button21"
-                android:layout_width="273dp"
+                android:layout_width="match_parent"
                 android:layout_height="100dp"
                 android:text="@string/vdebrunner"
                 android:textSize="18sp" />
@@ -101,14 +100,14 @@
 
             <Button
                 android:id="@+id/button22"
-                android:layout_width="272dp"
+                android:layout_width="match_parent"
                 android:layout_height="100dp"
                 android:text="@string/edrington"
                 android:textSize="18sp" />
 
             <Button
                 android:id="@+id/button23"
-                android:layout_width="273dp"
+                android:layout_width="match_parent"
                 android:layout_height="100dp"
                 android:text="@string/faruque"
                 android:textSize="18sp" />
@@ -120,7 +119,7 @@
 
             <Button
                 android:id="@+id/button24"
-                android:layout_width="272dp"
+                android:layout_width="match_parent"
                 android:layout_height="100dp"
                 android:onClick="viewFoo"
                 android:text="@string/foo"
@@ -128,7 +127,7 @@
 
             <Button
                 android:id="@+id/button25"
-                android:layout_width="273dp"
+                android:layout_width="match_parent"
                 android:layout_height="100dp"
                 android:text="@string/hadi"
                 android:textSize="18sp" />
@@ -140,7 +139,7 @@
 
             <Button
                 android:id="@+id/button26"
-                android:layout_width="272dp"
+                android:layout_width="match_parent"
                 android:layout_height="100dp"
                 android:onClick="viewHarvey"
                 android:text="@string/harvey"
@@ -148,7 +147,7 @@
 
             <Button
                 android:id="@+id/button27"
-                android:layout_width="273dp"
+                android:layout_width="match_parent"
                 android:layout_height="100dp"
                 android:onClick="viewHooker"
                 android:text="@string/hooker"
@@ -161,14 +160,14 @@
 
             <Button
                 android:id="@+id/button28"
-                android:layout_width="272dp"
+                android:layout_width="match_parent"
                 android:layout_height="100dp"
                 android:text="@string/islam"
                 android:textSize="18sp" />
 
             <Button
                 android:id="@+id/button29"
-                android:layout_width="273dp"
+                android:layout_width="match_parent"
                 android:layout_height="100dp"
                 android:text="@string/kwan"
                 android:textSize="18sp" />
@@ -180,14 +179,14 @@
 
             <Button
                 android:id="@+id/button30"
-                android:layout_width="272dp"
+                android:layout_width="match_parent"
                 android:layout_height="100dp"
                 android:text="@string/li"
                 android:textSize="18sp" />
 
             <Button
                 android:id="@+id/button31"
-                android:layout_width="273dp"
+                android:layout_width="match_parent"
                 android:layout_height="100dp"
                 android:text="@string/lipo"
                 android:textSize="18sp" />
@@ -199,14 +198,14 @@
 
             <Button
                 android:id="@+id/button32"
-                android:layout_width="272dp"
+                android:layout_width="match_parent"
                 android:layout_height="100dp"
                 android:text="@string/mcginnis"
                 android:textSize="18sp" />
 
             <Button
                 android:id="@+id/button33"
-                android:layout_width="273dp"
+                android:layout_width="match_parent"
                 android:layout_height="100dp"
                 android:text="@string/meyer"
                 android:textSize="18sp" />
@@ -218,14 +217,14 @@
 
             <Button
                 android:id="@+id/button34"
-                android:layout_width="272dp"
+                android:layout_width="match_parent"
                 android:layout_height="100dp"
                 android:text="@string/moss"
                 android:textSize="18sp" />
 
             <Button
                 android:id="@+id/button35"
-                android:layout_width="273dp"
+                android:layout_width="match_parent"
                 android:layout_height="100dp"
                 android:text="@string/pamidi"
                 android:textSize="16sp" />
@@ -237,14 +236,14 @@
 
             <Button
                 android:id="@+id/button36"
-                android:layout_width="272dp"
+                android:layout_width="match_parent"
                 android:layout_height="100dp"
                 android:text="@string/perry"
                 android:textSize="18sp" />
 
             <Button
                 android:id="@+id/button37"
-                android:layout_width="273dp"
+                android:layout_width="match_parent"
                 android:layout_height="100dp"
                 android:text="@string/roberts"
                 android:textSize="18sp" />
@@ -256,14 +255,14 @@
 
             <Button
                 android:id="@+id/button38"
-                android:layout_width="272dp"
+                android:layout_width="match_parent"
                 android:layout_height="100dp"
                 android:text="@string/steurer"
                 android:textSize="18sp" />
 
             <Button
                 android:id="@+id/button39"
-                android:layout_width="273dp"
+                android:layout_width="match_parent"
                 android:layout_height="100dp"
                 android:text="@string/tung"
                 android:textSize="18sp" />
@@ -275,14 +274,14 @@
 
             <Button
                 android:id="@+id/button40"
-                android:layout_width="272dp"
+                android:layout_width="match_parent"
                 android:layout_height="100dp"
                 android:text="@string/weatherspoon"
                 android:textSize="16sp" />
 
             <Button
                 android:id="@+id/button41"
-                android:layout_width="273dp"
+                android:layout_width="match_parent"
                 android:layout_height="100dp"
                 android:text="@string/yu"
                 android:textSize="18sp" />
@@ -294,14 +293,14 @@
 
             <Button
                 android:id="@+id/button42"
-                android:layout_width="272dp"
+                android:layout_width="match_parent"
                 android:layout_height="100dp"
                 android:text="@string/zheng"
                 android:textSize="18sp" />
 
             <Button
                 android:id="@+id/button43"
-                android:layout_width="272dp"
+                android:layout_width="match_parent"
                 android:layout_height="100dp"
                 android:onClick="viewFaculty"
                 android:text="@string/back_prompt"

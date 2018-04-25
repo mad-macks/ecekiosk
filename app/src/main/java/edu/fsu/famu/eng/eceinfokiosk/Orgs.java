@@ -20,10 +20,11 @@ public class Orgs extends AppCompatActivity {
         webview =findViewById(R.id.webView);
 
         webview.setWebViewClient(new WebViewClient());
-        webview.getSettings().setJavaScriptEnabled(true);
+        //webview.getSettings().setJavaScriptEnabled(true);
         webview.getSettings().setDomStorageEnabled(true);
         webview.setOverScrollMode(WebView.OVER_SCROLL_NEVER);
         webview.loadUrl("https://ww2.eng.famu.fsu.edu/current/undergraduate/student_organizations.html");
+        //webview.loadUrl("https://www.google.com");
     }
     public void toMain(View view) {
         //call main activity

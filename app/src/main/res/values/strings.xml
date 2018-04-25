@@ -21,6 +21,8 @@
     <string name="build_1">First Floor</string>
     <string name="build_2">Second Floor</string>
     <string name="build_3">Third Floor</string>
+    <string name="info_title">College Information</string>\
+    <string name="info_text">Put info text here</string>
 
     //Games stuff
     <string name="correct_prompt">Correct!</string>

@@ -54,7 +54,8 @@
         <activity android:name=".Incorrect4" />
         <activity android:name=".Incorrect3" />
         <activity android:name=".Q4" />
-        <activity android:name=".Correct4"></activity>
+        <activity android:name=".Correct4" />
+        <activity android:name=".Info"></activity>
     </application>
 
 </manifest>

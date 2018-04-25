@@ -24,8 +24,8 @@
     <Button
         android:id="@+id/button8"
         android:layout_width="240dp"
-        android:layout_height="100dp"
-        android:layout_marginBottom="139dp"
+        android:layout_height="200dp"
+        android:layout_marginBottom="8dp"
         android:layout_marginStart="16dp"
         android:layout_marginTop="8dp"
         android:onClick="toChem"
@@ -34,89 +34,83 @@
         android:textSize="24sp"
         app:layout_constraintBottom_toTopOf="@+id/button10"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/textView2" />
+        app:layout_constraintTop_toBottomOf="@+id/imageView6" />
 
     <Button
         android:id="@+id/button9"
         android:layout_width="240dp"
-        android:layout_height="100dp"
-        android:layout_marginBottom="137dp"
+        android:layout_height="200dp"
+        android:layout_marginBottom="8dp"
         android:layout_marginEnd="16dp"
-        android:layout_marginStart="62dp"
         android:layout_marginTop="8dp"
         android:text="@string/civil"
         android:textAlignment="center"
         android:textSize="24sp"
         app:layout_constraintBottom_toTopOf="@+id/button11"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.558"
-        app:layout_constraintStart_toEndOf="@+id/button8"
-        app:layout_constraintTop_toBottomOf="@+id/textView2" />
+        app:layout_constraintTop_toBottomOf="@+id/imageView6" />
 
     <Button
         android:id="@+id/button10"
         android:layout_width="240dp"
-        android:layout_height="100dp"
-        android:layout_marginBottom="140dp"
+        android:layout_height="200dp"
+        android:layout_marginBottom="48dp"
         android:layout_marginStart="16dp"
-        android:layout_marginTop="19dp"
         android:onClick="toElec"
         android:text="@string/electrical"
         android:textAlignment="center"
         android:textSize="24sp"
         app:layout_constraintBottom_toTopOf="@+id/button12"
         app:layout_constraintStart_toEndOf="@+id/button8"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/button8" />
+        app:layout_constraintStart_toStartOf="parent" />
 
     <Button
         android:id="@+id/button11"
         android:layout_width="240dp"
-        android:layout_height="100dp"
-        android:layout_marginBottom="137dp"
+        android:layout_height="200dp"
+        android:layout_marginBottom="48dp"
         android:layout_marginEnd="16dp"
-        android:layout_marginStart="8dp"
-        android:layout_marginTop="18dp"
         android:text="@string/industrial"
         android:textAlignment="center"
         android:textSize="24sp"
         app:layout_constraintBottom_toTopOf="@+id/button13"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintStart_toEndOf="@+id/button10"
-        app:layout_constraintTop_toBottomOf="@+id/button9" />
+        app:layout_constraintEnd_toEndOf="parent" />
 
     <Button
         android:id="@+id/button12"
         android:layout_width="240dp"
-        android:layout_height="100dp"
-        android:layout_marginBottom="8dp"
-        android:layout_marginEnd="60dp"
+        android:layout_height="200dp"
+        android:layout_marginBottom="32dp"
         android:layout_marginStart="16dp"
-        android:layout_marginTop="19dp"
         android:text="@string/mechanical"
         android:textAlignment="center"
         android:textSize="24sp"
         app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintEnd_toStartOf="@+id/button13"
-        app:layout_constraintHorizontal_bias="0.26"
         app:layout_constraintStart_toEndOf="@+id/button10"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/button10"
-        app:layout_constraintVertical_bias="0.369" />
+        app:layout_constraintStart_toStartOf="parent" />
 
     <Button
         android:id="@+id/button13"
         android:layout_width="240dp"
-        android:layout_height="100dp"
-        android:layout_marginBottom="8dp"
+        android:layout_height="200dp"
+        android:layout_marginBottom="32dp"
         android:layout_marginEnd="16dp"
-        android:layout_marginTop="19dp"
         android:onClick="toMain"
         android:text="@string/back_prompt"
         android:textAlignment="center"
         android:textSize="24sp"
         app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent" />
+
+    <ImageView
+        android:id="@+id/imageView6"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginEnd="8dp"
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="8dp"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/button11"
-        app:layout_constraintVertical_bias="0.372" />
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView2"
+        app:srcCompat="@drawable/andrei" />
 </android.support.constraint.ConstraintLayout>

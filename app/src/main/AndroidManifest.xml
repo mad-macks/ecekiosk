@@ -41,7 +41,20 @@
         <activity android:name=".Map" />
         <activity android:name=".MapB" />
         <activity android:name=".Orgs" />
-        <activity android:name=".Events"></activity>
+        <activity android:name=".Events" />
+        <activity android:name=".MapC" />
+        <activity android:name=".Games" />
+        <activity android:name=".Correct1" />
+        <activity android:name=".Q2" />
+        <activity android:name=".Incorrect1" />
+        <activity android:name=".Correct2" />
+        <activity android:name=".Incorrect2" />
+        <activity android:name=".Q3" />
+        <activity android:name=".Correct3" />
+        <activity android:name=".Incorrect4" />
+        <activity android:name=".Incorrect3" />
+        <activity android:name=".Q4" />
+        <activity android:name=".Correct4"></activity>
     </application>
 
 </manifest>

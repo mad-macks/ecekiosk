@@ -31,6 +31,7 @@
         android:layout_marginBottom="32dp"
         android:layout_marginStart="16dp"
         android:text="@string/games_prompt"
+        android:onClick="viewGames"
         android:textSize="24sp"
         app:layout_constraintBottom_toTopOf="@+id/button7"
         app:layout_constraintStart_toStartOf="parent" />

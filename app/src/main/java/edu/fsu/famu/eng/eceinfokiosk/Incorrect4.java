@@ -4,32 +4,21 @@ import android.content.Intent;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.view.View;
-import android.widget.AdapterViewFlipper;
 
-public class MapB extends AppCompatActivity {
+public class Incorrect4 extends AppCompatActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_map_b);
-
-
+        setContentView(R.layout.activity_incorrect4);
     }
 
-    public void show_A(View view) {
-        //call main activity
-        Intent intent = new Intent(this, Map.class);
-        startActivity(intent);
-    }
-
-    public void show_C(View view) {
-        //call other map
-        Intent intent = new Intent(this, MapC.class);
-        startActivity(intent);
-    }
     public void toMain(View view) {
         //call main activity
         Intent intent = new Intent(this, MainActivity.class);
         startActivity(intent);
     }
+
+
+
 }

@@ -18,8 +18,38 @@
     <string name="civil">Civil &amp; &#xD;Environmental</string>
     <string name="back_prompt">Back</string>
     <string name="title_activity_chem">Chem</string>
-    <string name="build_A">Building A</string>
-    <string name="build_B">Building B</string>
+    <string name="build_1">First Floor</string>
+    <string name="build_2">Second Floor</string>
+    <string name="build_3">Third Floor</string>
+
+    //Games stuff
+    <string name="correct_prompt">Correct!</string>
+    <string name="incorrect_prompt">Incorrect!</string>
+    <string name="next_prompt">Next Question</string>
+    <string name="trivia_title">Trivia Game</string>
+    <string name="quest_1">What year was the Department of Electrical and Computer Engineering established? </string>
+    <string name="q1a">1983</string>
+    <string name="q1b">1851</string>
+    <string name="q1c">1954</string>
+    <string name="q1d">1997</string>
+
+    <string name="quest_2">This professor was elected to the National Academy of Inventors, a feat that only 581 other people world wide have accomplished.</string>
+    <string name="q2a">Dr. Rodney Roberts</string>
+    <string name="q2b">Dr. Ming Yu</string>
+    <string name="q2c">Dr. Jianping Zheng</string>
+    <string name="q2d">Dr. Uwe Meyer-Baese</string>
+
+    <string name="quest_3">How many credit hours does an ECE major need to graduate?</string>
+    <string name="q3a">120</string>
+    <string name="q3b">124</string>
+    <string name="q3c">128</string>
+    <string name="q3d">132</string>
+
+    <string name="quest_4">Which of these ECE professors completed all of their schooling at the FSU-FAMU College of Engineering?</string>
+    <string name="q4a">Dr. Walid Hadi</string>
+    <string name="q4b">Dr. Jerris Hooker</string>
+    <string name="q4c">Dr. Hui Li</string>
+    <string name="q4d">Dr. Reginald Perry</string>
 
     //Chem faculty
     <string name="alamo">Rufina Alamo, Ph.D.</string>

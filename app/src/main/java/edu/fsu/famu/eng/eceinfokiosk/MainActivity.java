@@ -87,13 +87,13 @@ public class MainActivity extends AppCompatActivity {
         Intent intent = new Intent(this, Events.class);
         startActivity(intent);
     }
-/*
+
     public void viewGames(View view) {
         //call new activity
         Intent intent = new Intent(this, Games.class);
         startActivity(intent);
     }
-
+/*
     public void viewInfo(View view) {
         //call new activity
         Intent intent = new Intent(this, Info.class);

@@ -21,6 +21,13 @@ public class Map extends AppCompatActivity {
         Intent intent = new Intent(this, MapB.class);
         startActivity(intent);
     }
+
+    public void show_C(View view) {
+        //call other map
+        Intent intent = new Intent(this, MapC.class);
+        startActivity(intent);
+    }
+
     public void toMain(View view) {
         //call main activity
         Intent intent = new Intent(this, MainActivity.class);

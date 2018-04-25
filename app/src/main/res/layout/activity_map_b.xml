@@ -24,7 +24,7 @@
             android:layout_weight="1"
             android:duplicateParentState="false"
             android:onClick="show_A"
-            android:text="@string/build_A" />
+            android:text="@string/build_1" />
 
         <RadioButton
             android:id="@+id/radioButton2"
@@ -32,7 +32,15 @@
             android:layout_height="wrap_content"
             android:layout_weight="1"
             android:checked="true"
-            android:text="@string/build_B" />
+            android:text="@string/build_2" />
+
+        <RadioButton
+            android:id="@+id/radioButton4"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:onClick="show_C"
+            android:text="@string/build_3" />
     </RadioGroup>
 
     <Button

@@ -37,7 +37,7 @@
 
     <TableLayout
         android:id="@+id/tableLayout"
-        android:layout_width="541dp"
+        android:layout_width="match_parent"
         android:layout_height="255dp"
         android:layout_marginBottom="8dp"
         app:layout_constraintBottom_toBottomOf="parent"
@@ -49,7 +49,7 @@
 
             <Button
                 android:id="@+id/button47"
-                android:layout_width="272dp"
+                android:layout_width="360dp"
                 android:layout_height="100dp"
                 android:onClick="incorrect"
                 android:text="@string/q2a"
@@ -57,7 +57,7 @@
 
             <Button
                 android:id="@+id/button48"
-                android:layout_width="273dp"
+                android:layout_width="360dp"
                 android:layout_height="100dp"
                 android:onClick="incorrect"
                 android:text="@string/q2b"
@@ -70,7 +70,7 @@
 
             <Button
                 android:id="@+id/button50"
-                android:layout_width="wrap_content"
+                android:layout_width="360dp"
                 android:layout_height="100dp"
                 android:onClick="correct"
                 android:text="@string/q2c"
@@ -78,7 +78,7 @@
 
             <Button
                 android:id="@+id/button49"
-                android:layout_width="wrap_content"
+                android:layout_width="360dp"
                 android:layout_height="100dp"
                 android:onClick="incorrect"
                 android:text="@string/q2d"
@@ -103,14 +103,14 @@
 
     <ImageView
         android:id="@+id/imageView2"
-        android:layout_width="222dp"
-        android:layout_height="267dp"
+        android:layout_width="376dp"
+        android:layout_height="393dp"
         android:layout_marginEnd="8dp"
         android:layout_marginStart="8dp"
         android:layout_marginTop="56dp"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@id/textView7"
-        app:srcCompat="@drawable/andrei" />
+        app:srcCompat="@drawable/gears" />
 
 </android.support.constraint.ConstraintLayout>

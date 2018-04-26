@@ -22,7 +22,26 @@
     <string name="build_2">Second Floor</string>
     <string name="build_3">Third Floor</string>
     <string name="info_title">College Information</string>\
-    <string name="info_text">Put info text here</string>
+    <string name="info_text">\tDear Prospective Students, Parents, Supporters and Friends:\n
+\n
+Welcome to the info kiosk for the Department of Electrical &amp; Computer Engineering (ECE) at the FAMU-FSU College of Engineering, a joint program between Florida A&amp;M University (FAMU) and Florida State University (FSU), established in 1983.\n
+\n
+The Department of ECE presently has 28 dedicated and diverse faculty members with strong research capabilities, including 2 National Academy of Inventors (NAI) Fellows. Active areas of research include energy storage materials and devices, renewable energy, advanced power systems, robotics, embedded systems, solid state and electromagnetic simulations, photonics, computer security, smart grids, resilient power networks, digital signal and image processing, wireless communications, and intelligent systems.\n
+\n
+We offer ABET-accredited B.S. programs in electrical engineering and computer engineering with over 450 undergraduate students, and M.S. and Ph.D. programs in electrical engineering with over 100 graduate students. We also offer 4+1 BS MS degree and international 3+1+1 BS MS programs. The Department has strong research ties with several research centers such as the Center for Advanced Power Systems (CAPS), the Aeropropulsion, Mechatronics, and Energy (AME) Center, Center for Intelligent, Systems, Control, and Robotics (CISCOR), High-Performance Materials Institute (HPMI), National High Magnetic Field Laboratory (NHMFL), and Applied Superconductivity Center (ASC).\n
+\n
+The mission of the Department of Electrical &amp; Computer Engineering is to provide an innovative academic undergraduate program of excellence to its majors; to produce graduates whose academic achievements match or exceed those of recognized state supported engineering colleges; to produce a greater number of graduates from groups traditionally underrepresented in electrical engineering; and to achieve national and international recognition through the excellence of its faculty and students research and scholarly pursuits, as well as their professional and service endeavors.\n
+\n
+We hope you will find the information you are looking for in these pages, and if you have any questions please feel free to contact our department. I look forward to personally welcoming you to our department and College.\n
+\n
+\tSimon Y. Foo\n
+\tProfessor and Chair</string>
+
+    <string name="orgs_text">The COE offers a variety of organizations that students can join to be more involved on campus. Below is a list of organizations and contact info.</string>
+    <string name="event_text">The remaining events for the school year are as follows:\n
+
+\tEngineering Exam Week: April 30th - May 4\n
+\tEngineering Graduation: May 5</string>
 
     //Games stuff
     <string name="correct_prompt">Correct!</string>

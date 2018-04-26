@@ -68,5 +68,5 @@
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:srcCompat="@drawable/andrei" />
+        app:srcCompat="@drawable/floor1" />
 </android.support.constraint.ConstraintLayout>
